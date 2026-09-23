@@ -1,0 +1,576 @@
+[
+    {
+        "id": "hu-tieu-muc-cho-lach",
+        "name": "Hủ Tiếu Mực Chợ Lách",
+        "desc": "Hủ Tiếu Mực Chợ Lách ở 462 Đ. Lê Văn Việt, Tăng Nhơn Phú, TP.HCM phục vụ món phở\/bún với mức giá phù hợp và phong cách ăn nhanh, tiện lợi cho sinh viên và người làm việc.",
+        "address": "462 Đ. Lê Văn Việt, Tăng Nhơn Phú, TP.HCM",
+        "delivery_time": "18 phút",
+        "image": "https:\/\/raw.githubusercontent.com\/nnquangpro\/img_pfe\/refs\/heads\/main\/4-hu-tieu-muc.pnng.jpg?w=500&q=80",
+        "rating": 5,
+        "reviews_count": 3,
+        "tag": "PHỞ\/BÚN",
+        "items": [
+            {
+                "id": 101,
+                "name": "Hủ tiếu mực",
+                "price": 40000
+            },
+            {
+                "id": 102,
+                "name": "Hủ tiếu Thái",
+                "price": 40000
+            },
+            {
+                "id": 103,
+                "name": "Bánh canh mực",
+                "price": 40000
+            },
+            {
+                "id": 104,
+                "name": "Bún Thái mực",
+                "price": 40000
+            },
+            {
+                "id": 105,
+                "name": "Bún mực",
+                "price": 40000
+            },
+            {
+                "id": 106,
+                "name": "Bún riêu mực",
+                "price": 40000
+            },
+            {
+                "id": 107,
+                "name": "Mực thêm",
+                "price": 30000
+            }
+        ],
+        "is_open": true
+    },
+    {
+        "id": "neo-coffee-tea",
+        "name": "NEO Coffee & Tea",
+        "desc": "NEO Coffee & Tea ở 102 Man Thiện, Tăng Nhơn Phú, TP. Thủ Đức phục vụ đồ uống với mức giá phù hợp và phong cách ăn nhanh, tiện lợi cho sinh viên và người làm việc.",
+        "address": "102 Man Thiện, Tăng Nhơn Phú, TP. Thủ Đức",
+        "delivery_time": "15 phút",
+        "image": "https:\/\/images.unsplash.com\/photo-1517256064527-09c73fc73e38?w=500&q=80",
+        "rating": 4.7,
+        "reviews_count": 3,
+        "tag": "ĐỒ UỐNG",
+        "items": [
+            {
+                "id": 201,
+                "name": "Cà phê đen đá",
+                "price": 22000
+            },
+            {
+                "id": 202,
+                "name": "Cà phê phin sữa đá",
+                "price": 23000
+            },
+            {
+                "id": 203,
+                "name": "Bạc xỉu",
+                "price": 25000
+            },
+            {
+                "id": 204,
+                "name": "Chanh đá nóng",
+                "price": 20000
+            },
+            {
+                "id": 205,
+                "name": "Cà phê phin kem trứng",
+                "price": 35000
+            },
+            {
+                "id": 206,
+                "name": "Cà phê phin muối nóng",
+                "price": 30000
+            },
+            {
+                "id": 207,
+                "name": "Cà phê dừa kem dừa rim dừa",
+                "price": 35000
+            },
+            {
+                "id": 208,
+                "name": "Choco nguyên vị",
+                "price": 25000
+            },
+            {
+                "id": 209,
+                "name": "Choco dừa",
+                "price": 25000
+            },
+            {
+                "id": 210,
+                "name": "Choco dừa kem dừa rim dừa",
+                "price": 35000
+            },
+            {
+                "id": 211,
+                "name": "Choco kem cheese",
+                "price": 30000
+            },
+            {
+                "id": 212,
+                "name": "Matcha latte",
+                "price": 30000
+            },
+            {
+                "id": 213,
+                "name": "Matcha kem cheese",
+                "price": 35000
+            },
+            {
+                "id": 214,
+                "name": "Matcha dừa kem dừa rim dừa",
+                "price": 38000
+            },
+            {
+                "id": 215,
+                "name": "Trà chanh vàng mật tỏi đá",
+                "price": 22000
+            },
+            {
+                "id": 216,
+                "name": "Trà chanh vàng chanh dây",
+                "price": 25000
+            },
+            {
+                "id": 217,
+                "name": "Trà tắc xí muội đá",
+                "price": 20000
+            },
+            {
+                "id": 218,
+                "name": "Trà tắc xí muội",
+                "price": 20000
+            },
+            {
+                "id": 219,
+                "name": "Trà vải kim tòng đá",
+                "price": 25000
+            },
+            {
+                "id": 220,
+                "name": "Trà vải kim tòng",
+                "price": 28000
+            },
+            {
+                "id": 221,
+                "name": "Trà đà xả đá",
+                "price": 25000
+            },
+            {
+                "id": 222,
+                "name": "Trà đào xả",
+                "price": 28000
+            },
+            {
+                "id": 223,
+                "name": "Trà ổi hồng đá",
+                "price": 25000
+            },
+            {
+                "id": 224,
+                "name": "Trà ổi hồng",
+                "price": 28000
+            },
+            {
+                "id": 225,
+                "name": "Hồng trà kem cheese",
+                "price": 30000
+            },
+            {
+                "id": 226,
+                "name": "Hồng trà tắc",
+                "price": 20000
+            },
+            {
+                "id": 227,
+                "name": "Hồng trà chanh đá",
+                "price": 20000
+            },
+            {
+                "id": 228,
+                "name": "Hồng trà dừa kem dừa rim dừa",
+                "price": 35000
+            },
+            {
+                "id": 229,
+                "name": "Yaourt đá",
+                "price": 20000
+            },
+            {
+                "id": 230,
+                "name": "Yaourt chanh đá",
+                "price": 23000
+            },
+            {
+                "id": 231,
+                "name": "Yaourt việt quất đá",
+                "price": 25000
+            },
+            {
+                "id": 232,
+                "name": "Lipton chanh",
+                "price": 22000
+            },
+            {
+                "id": 233,
+                "name": "Gừng mật ong nóng",
+                "price": 25000
+            },
+            {
+                "id": 234,
+                "name": "Chanh đá",
+                "price": 20000
+            },
+            {
+                "id": 235,
+                "name": "Chanh gừng mật ong",
+                "price": 25000
+            }
+        ]
+    },
+    {
+        "id": "pho-tuan-ha-noi",
+        "name": "Phở Tuấn Hà Nội",
+        "desc": "Phở Tuấn Hà Nội ở Tăng Nhơn Phú, TP. Thủ Đức, TP.HCM phục vụ món phở\/bún với mức giá phù hợp và phong cách ăn nhanh, tiện lợi cho sinh viên và người làm việc.",
+        "address": "Tăng Nhơn Phú, TP. Thủ Đức, TP.HCM",
+        "delivery_time": "18 phút",
+        "image": "https:\/\/raw.githubusercontent.com\/nnquangpro\/img_pfe\/refs\/heads\/main\/3-pho%20tuan%20ha%20noi.jpg?w=500&q=80",
+        "rating": 4.8,
+        "reviews_count": 3,
+        "tag": "PHỞ\/BÚN",
+        "items": [
+            {
+                "id": 301,
+                "name": "Tái - gân",
+                "price": 35000
+            },
+            {
+                "id": 302,
+                "name": "Tái - nạm - gân",
+                "price": 35000
+            },
+            {
+                "id": 303,
+                "name": "Tái - nạm",
+                "price": 35000
+            },
+            {
+                "id": 304,
+                "name": "Bò viên",
+                "price": 35000
+            },
+            {
+                "id": 305,
+                "name": "Tái bò viên",
+                "price": 35000
+            },
+            {
+                "id": 306,
+                "name": "Viên gân",
+                "price": 35000
+            },
+            {
+                "id": 307,
+                "name": "Bò hầm đặc biệt",
+                "price": 50000
+            },
+            {
+                "id": 308,
+                "name": "Chân gà xả tắc",
+                "price": 35000
+            },
+            {
+                "id": 309,
+                "name": "Chân gà",
+                "price": 30000
+            },
+            {
+                "id": 310,
+                "name": "Chân gà rút xương",
+                "price": 35000
+            },
+            {
+                "id": 311,
+                "name": "Chân gà - nạm - gân",
+                "price": 35000
+            },
+            {
+                "id": 312,
+                "name": "Chân gà muối",
+                "price": 25000
+            },
+            {
+                "id": 313,
+                "name": "Chân gà - nạm",
+                "price": 30000
+            },
+            {
+                "id": 314,
+                "name": "Chân gà nạm",
+                "price": 30000
+            },
+            {
+                "id": 315,
+                "name": "Chân gà cay",
+                "price": 25000
+            },
+            {
+                "id": 316,
+                "name": "Chân gà sốt thái",
+                "price": 35000
+            },
+            {
+                "id": 317,
+                "name": "Chân gà muối ốc",
+                "price": 30000
+            },
+            {
+                "id": 318,
+                "name": "Chân gà muối xả tắc",
+                "price": 35000
+            },
+            {
+                "id": 319,
+                "name": "Chân gà trong",
+                "price": 15000
+            }
+        ]
+    },
+    {
+        "id": "bo-ne-hem-2",
+        "name": "Bò Né Hẻm 2",
+        "desc": "Bò Né Hẻm 2 ở 171 Ngô Quyền, Tăng Nhơn Phú, TP.HCM phục vụ món bánh mì và mức giá phù hợp và phong cách ăn nhanh, tiện lợi cho sinh viên và người làm việc.",
+        "address": "171 Ngô Quyền, Tăng Nhơn Phú, TP.HCM",
+        "delivery_time": "18 phút",
+        "image": "https:\/\/images.unsplash.com\/photo-1509722747041-616f39b57569?w=500&q=80",
+        "rating": 4.7,
+        "reviews_count": 3,
+        "tag": "BÁNH MÌ",
+        "items": [
+            {
+                "id": 401,
+                "name": "Bò né hẻm 2 - Ốp la - Trứng - Patê",
+                "price": 28000
+            },
+            {
+                "id": 402,
+                "name": "Bánh mì né số 1 - Trứng - Patê + Xúc xích + Phô mai",
+                "price": 26000
+            },
+            {
+                "id": 403,
+                "name": "Bánh mì né số 2 - Trứng - Patê + Xúc xích + Chả lợn",
+                "price": 31000
+            },
+            {
+                "id": 404,
+                "name": "Bánh mì né số 3 - Trứng + Patê + Xúc xích + Chả lợn + Bò",
+                "price": 31000
+            },
+            {
+                "id": 405,
+                "name": "Bánh mì né số 4 - Trứng + Patê + Phô mai + Xúc xích",
+                "price": 35000
+            },
+            {
+                "id": 406,
+                "name": "Bánh mì né số 5 - Trứng + Patê + Phô mai + Bò",
+                "price": 35000
+            },
+            {
+                "id": 407,
+                "name": "Bánh mì né số 6 - Trứng + Patê + Xúc xích + Chả lợn + Phô mai",
+                "price": 37000
+            },
+            {
+                "id": 408,
+                "name": "Bánh mì né số 7 - Trứng + Patê + Xúc xích + Chả lợn + Bò + Phô mai",
+                "price": 40000
+            },
+            {
+                "id": 409,
+                "name": "Nước ngọt",
+                "price": 14000
+            },
+            {
+                "id": 410,
+                "name": "Thêm bánh mì",
+                "price": 4000
+            },
+            {
+                "id": 411,
+                "name": "Trứng thêm",
+                "price": 7000
+            },
+            {
+                "id": 412,
+                "name": "Xúc xích thêm",
+                "price": 7000
+            },
+            {
+                "id": 413,
+                "name": "Chả lợn thêm",
+                "price": 7000
+            },
+            {
+                "id": 414,
+                "name": "Phô mai thêm",
+                "price": 7000
+            },
+            {
+                "id": 415,
+                "name": "Bò thêm",
+                "price": 20000
+            },
+            {
+                "id": 416,
+                "name": "Đậu hũ sốt cà trứng",
+                "price": 40000
+            }
+        ]
+    },
+    {
+        "id": "quan-com-co-thanh",
+        "name": "Quán Cơm Cô Thanh",
+        "desc": "Quán Cơm Cô Thanh ở H3 Man Thiện, Khu phố 1, Tăng Nhơn Phú, TP.HCM phục vụ món cơm với mức giá phù hợp và phong cách ăn nhanh, tiện lợi cho sinh viên và người làm việc.",
+        "address": "H3 Man Thiện, Khu phố 1, Tăng Nhơn Phú, TP.HCM",
+        "delivery_time": "18 phút",
+        "image": "https:\/\/images.unsplash.com\/photo-1546069901-ba9599a7e63c?w=500&q=80",
+        "rating": 4.7,
+        "reviews_count": 3,
+        "tag": "CƠM",
+        "items": [
+            {
+                "id": 501,
+                "name": "Cơm thịt kho",
+                "price": 25000
+            },
+            {
+                "id": 502,
+                "name": "Cơm sườn",
+                "price": 30000
+            },
+            {
+                "id": 503,
+                "name": "Cơm gà",
+                "price": 30000
+            }
+        ]
+    },
+    {
+        "id": "com-tam-ngo-quyen-thu-duc",
+        "name": "Cơm Tấm Ngô Quyền Thủ Đức",
+        "desc": "Cơm Tấm Ngô Quyền Thủ Đức ở Ngô Quyền, TP. Thủ Đức, TP.HCM phục vụ món cơm với mức giá phù hợp và phong cách ăn nhanh, tiện lợi cho sinh viên và người làm việc.",
+        "address": "Ngô Quyền, TP. Thủ Đức, TP.HCM",
+        "delivery_time": "18 phút",
+        "image": "https:\/\/images.unsplash.com\/photo-1513104890138-7c749659a591?w=500&q=80",
+        "rating": 4.7,
+        "reviews_count": 3,
+        "tag": "CƠM",
+        "items": [
+            {
+                "id": 601,
+                "name": "Cơm sườn",
+                "price": 30000
+            },
+            {
+                "id": 602,
+                "name": "Cơm sườn trứng",
+                "price": 35000
+            },
+            {
+                "id": 603,
+                "name": "Cơm sườn chả",
+                "price": 35000
+            },
+            {
+                "id": 604,
+                "name": "Cơm sườn ốp la",
+                "price": 35000
+            },
+            {
+                "id": 605,
+                "name": "Cơm sườn bì chả trứng",
+                "price": 50000
+            },
+            {
+                "id": 606,
+                "name": "Cơm ba rọi",
+                "price": 30000
+            },
+            {
+                "id": 607,
+                "name": "Cơm ba rọi trứng",
+                "price": 35000
+            },
+            {
+                "id": 608,
+                "name": "Cơm ba rọi chả",
+                "price": 35000
+            },
+            {
+                "id": 609,
+                "name": "Cơm bì chả trứng",
+                "price": 35000
+            },
+            {
+                "id": 610,
+                "name": "Cơm ba rọi nướng",
+                "price": 40000
+            },
+            {
+                "id": 611,
+                "name": "Cơm xá xíu trứng",
+                "price": 35000
+            },
+            {
+                "id": 612,
+                "name": "Cơm xá xíu chả",
+                "price": 35000
+            },
+            {
+                "id": 613,
+                "name": "Cơm xá xíu chả trứng",
+                "price": 40000
+            },
+            {
+                "id": 614,
+                "name": "Cơm đùi gà nướng xả",
+                "price": 35000
+            },
+            {
+                "id": 615,
+                "name": "Cơm đùi gà nướng chả trứng",
+                "price": 40000
+            },
+            {
+                "id": 616,
+                "name": "Cơm gà",
+                "price": 30000
+            },
+            {
+                "id": 617,
+                "name": "Đùi gà nướng",
+                "price": 28000
+            },
+            {
+                "id": 618,
+                "name": "Cơm gà góc tư",
+                "price": 35000
+            },
+            {
+                "id": 619,
+                "name": "Đùi gà góc tư nướng",
+                "price": 40000
+            }
+        ]
+    }
+]
